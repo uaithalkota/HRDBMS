@@ -141,7 +141,7 @@
 			excludes="**/.svn*" 
 			source="1.8"
 			includeantruntime="false">
-			<compilerarg value="-Xlint:unchecked -Xmaxwarns" />
+			<compilerarg value="-Xlint:unchecked" />
 		</javac>
 	</target>
 	
